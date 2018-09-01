@@ -11,6 +11,7 @@
 npm install
 ```
 生成node_modules
+
 2. 合约部署
 ```
 truffle compile//合约编译
