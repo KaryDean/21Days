@@ -32,6 +32,7 @@ npm start
 ```
 
 ### 界面
+![界面](https://github.com/KaryDean/21Days/blob/master/image/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.jpg)
 [个人中心界面](https://github.com/KaryDean/21Days/blob/master/image/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png)
 
 [个人中心已完成目标界面](https://github.com/KaryDean/21Days/blob/master/image/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83%E5%B7%B2%E5%AE%8C%E6%88%90%E7%9B%AE%E6%A0%87.png)
