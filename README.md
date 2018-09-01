@@ -1,8 +1,11 @@
 # 21Days
 ### 使用工具
 前端：react、redux、react-router
+
 后端：express、mongodb
+
 区块链：truffle、solidity
+
 本地区块链网络：ganache
 
 ### 使用方法
