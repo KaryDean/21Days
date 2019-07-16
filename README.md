@@ -41,7 +41,7 @@ npm start
 ```
 
 ## 界面
-
+[页面浏览](https://github.com/KaryDean/21Days/blob/master/image/README.md)
 
 ### 目录结构
 ```
