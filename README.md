@@ -44,7 +44,7 @@ npm start
 [页面浏览](https://github.com/KaryDean/21Days/blob/master/image/README.md)
 
 ### 系统设计
-[系统设计](https://github.com/KaryDean/21Days/blob/master/image/21Days%E8%AE%BE%E8%AE%A1.jpg)
+![系统设计](https://github.com/KaryDean/21Days/blob/master/image/21Days%E8%AE%BE%E8%AE%A1.jpg)
 
 ### 目录结构
 ```
