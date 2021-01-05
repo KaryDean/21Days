@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "antd-mobile": "^2.2.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-plugin-import": "^1.8.0",
     "body-parser": "^1.18.3",
     "browser-cookies": "^1.2.0",
